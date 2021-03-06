@@ -1,10 +1,10 @@
 import React from 'react'
-import UseState from "./Components/useStateHook"
+import UseEffect from "./Components/useEffectHook"
 
 function App() {
   return (
     <>
-      <UseState />
+      <UseEffect />
     </>
   );
 }

@@ -1,0 +1,15 @@
+.btn-outline-primary{
+    background-color:rgba(141, 255, 137, 0.671) !important;
+    border: none;
+    color:white !important;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.411);
+}
+h1{
+    color:white
+}
+.outerContainer{
+    display: grid;
+    place-items: center;
+}
