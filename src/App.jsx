@@ -1,10 +1,10 @@
 import React from 'react'
-import UseReducer from "./Components/useReducerHook"
+import ComA from "./Components/ComA"
 
 function App() {
   return (
     <>
-      <UseReducer />
+      <ComA />
     </>
   );
 }

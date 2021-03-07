@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(132, 241, 190, 0.836);
+}
+h1{
+    color:rgb(205, 64, 224)
+}
+.outerContainer{
+    display: grid;
+    place-items: center;
+}
