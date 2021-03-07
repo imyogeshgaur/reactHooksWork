@@ -1,10 +1,10 @@
 import React from 'react'
-import UseRef from "./Components/useRefHook"
+import UseReducer from "./Components/useReducerHook"
 
 function App() {
   return (
     <>
-      <UseRef />
+      <UseReducer />
     </>
   );
 }
